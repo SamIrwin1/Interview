@@ -1,0 +1,178 @@
+/* Interview */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: teal;
+
+}
+
+/* Chris says this was redundant. womp womp*/
+p {
+	font-family: 'Noto Sans', sans-serif;
+}
+
+p2 {
+	font-family: 'Noto Sans', sans-serif;
+	text-align: right;
+}
+
+
+.contact{
+	height: 200px;
+	max-width:50em;
+	background-color: lightgrey;
+	border: .5em solid lightgrey;
+	border-bottom-right-radius: 0em;
+	border-bottom-left-radius: 0em;
+}
+.SI {
+	font-family: 'Abril Fatface', cursive;	
+
+}
+.ER {
+	font-family: 'Abril Fatface', cursive;	
+	margin-left: 18em;
+
+}
+
+.circle{
+	  height: 150px;
+	  width: 150px;
+	  background-color: #bbb;
+	  border-radius: 50%;
+	  display: inline-block;
+	  margin-left: 17em;
+ }
+
+button {
+	font-size: 100%;
+	font-family: inherit;
+	border: 0;
+	padding: 0;
+	background-color: white;
+}
+
+	#myDIV {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	margin: .5em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+	#responses2 {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+	#responses3 {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+	#responses4 {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+	#responses5 {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+	#responses6 {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+	#responses7 {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+	#responses8 {
+
+	text-align: right;
+	border: .5em solid lightyellow;
+	border-radius: 1.5em;
+	background-color: lightyellow;
+	border-bottom-right-radius: 0em;
+	font-family: 'Noto Sans', sans-serif;
+	display: none;
+	}
+
+
+
+.Qs {
+	text-align: left;
+	font-family: 'Noto Sans', sans-serif;
+	border: .5em solid lightblue;
+	background-color: lightblue;
+	border-radius: 1.5em;
+	border-bottom-left-radius: 0em;
+	padding-right: 14em;
+	margin-bottom: 1em;
+	margin-top: 1em
+}
+
+.phone {
+	background-color: white;
+	border-radius: 3em;
+	max-width: 50em;
+}
+
+
+article {
+	max-width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2em;
+	padding-bottom: 9em;
+	border-style: solid;
+	border-width:1.5em;
+	border-radius: 3em;
+	padding:1.25em;
+}
